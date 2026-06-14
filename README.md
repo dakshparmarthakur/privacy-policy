@@ -57,7 +57,7 @@ Developer Name: Daksh Thakur
 
 Studio Name: Games Of Daksh
 
-Contact Email: [Insert Your Public Support Email Here]Privacy Policy
+Contact Email: [contactatgamesofdaksh@ggmail.com]Privacy Policy
 Last Updated: June 2026
 
 Games Of Daksh (operated by Daksh Thakur) builds mobile games as Ad-Supported and free-to-play apps. This SERVICE is provided by Games Of Daksh at no cost and is intended for use as-is.
@@ -116,7 +116,7 @@ Developer Name: Daksh Thakur
 
 Studio Name: Games Of Daksh
 
-Contact Email: [Insert Your Public Support Email Here]Privacy Policy
+Contact Email: [contactatgamesofdaksh@ggmail.com]Privacy Policy
 Last Updated: June 2026
 
 Games Of Daksh (operated by Daksh Thakur) builds mobile games as Ad-Supported and free-to-play apps. This SERVICE is provided by Games Of Daksh at no cost and is intended for use as-is.
@@ -175,4 +175,4 @@ Developer Name: Daksh Thakur
 
 Studio Name: Games Of Daksh
 
-Contact Email: [Insert Your Public Support Email Here]
+Contact Email: [contactatgamesofdaksh@ggmail.com]
