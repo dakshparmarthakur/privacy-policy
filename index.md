@@ -31,9 +31,9 @@ The app saves core gameplay settings (such as high scores and background prefere
 
 The game utilizes third-party services and SDKs that may collect information used to identify your device. Below are the direct links to the privacy policies of the third-party service providers used by our app:
 
-* [Google Play Services Privacy Policy](https://google.com)
-* [Google AdMob & User Messaging Platform (UMP) Privacy Policy](https://google.com)
-* [Unity Services Privacy Policy](https://unity.com)
+* [Google Play Services Privacy Policy]([https://google.com](https://policies.google.com/privacy))
+* [Google AdMob & User Messaging Platform (UMP) Privacy Policy]([https://google.com](https://policies.google.com/technologies/ads))
+* [Unity Services Privacy Policy]([https://unity.com](https://unity.com/legal/game-player-and-app-user-privacy-policy))
 
 ---
 
